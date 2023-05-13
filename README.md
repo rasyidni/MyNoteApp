@@ -1,0 +1,2 @@
+# MyNoteApp
+Sebuah aplikasi kpu
