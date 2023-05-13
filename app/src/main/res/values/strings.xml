@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyNoteApp</string>
+
+    <string name="nama">Nama</string>
+    <string name="NIK">NIK</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="informasi">Informasi</string>
+    <string name="form_entry">Form Entry</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="keluar">Keluar</string>
+    <string name="nomorhp">No. HP</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama2">Nama : </string>
+    <string name="alamat2">Alamat : </string>
+    <string name="tanggal">Tanggal</string>
+    <string name="tanggal_lahir">Tanggal Lahir : </string>
+    <string name="jenis_kelamin2">Jenis Kelamin : </string>
+    <string name="no_hp">No. HP:</string>
+    <string name="nik2">NIK :</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="dapatkan_alamat">Dapatkan Alamat</string>
+    <string name="tanggal_lahir3">Tanggal Lahir</string>
+    <string name="aplikasi_kpu">Aplikasi KPU (Komisi Pemilihan Umum) yang telah saya buat adalah sebuah platform yang dirancang khusus untuk mengelola dan menyimpan data pemilih dalam sebuah pemilihan. Aplikasi ini bertujuan untuk memberikan solusi yang efisien, akurat, dan aman dalam pengelolaan data pemilih untuk keperluan pemilihan umum. \nSalah satu fitur utama dari aplikasi ini adalah kemampuannya untuk mengumpulkan, menyimpan, dan memelihara data pemilih dengan cara yang terstruktur dan terorganisir. Data pemilih yang terdaftar dalam aplikasi mencakup informasi penting seperti nama lengkap, alamat, tanggal lahir, nomor identifikasi, dan informasi lainnya yang diperlukan dalam proses verifikasi identitas pemilih. Setiap entri data pemilih dapat diperbarui dan dikelola dengan mudah melalui antarmuka yang intuitif.\nSelain itu, aplikasi ini juga menyediakan fungsi pencarian yang memungkinkan pengguna untuk dengan cepat menemukan dan mengakses data pemilih yang spesifik. Fitur ini dapat membantu mempermudah proses verifikasi pemilih dan meminimalkan risiko kesalahan atau duplikasi data.</string>
+</resources>
